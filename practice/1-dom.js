@@ -20,8 +20,9 @@ console.log(dice2)
 
 let dice = document.querySelector('.dice')
 // console.log(dice)
-
+// man this git push check
 dice.innerHTML = `
+
         <img src="../images/dice/${dice1}.png" class="die w-1/2 md:w-1/6">
         <img src="../images/dice/${dice2}.png" class="die w-1/2 md:w-1/6">
 
